@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=4 python ../src/commands/train.py empiar10028
